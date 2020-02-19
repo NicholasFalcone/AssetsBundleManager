@@ -1,0 +1,50 @@
+# =============== #
+# Unity generated #
+# =============== #
+Temp/
+Obj/
+UnityGenerated/
+Library/
+Assets/Models/
+Assets/EH_Voodoo_Models.meta
+Assets/OBJExport
+Assets/ThirdParties/OBJExport
+Assets/ThirdParties/CameraOrbit
+*.mp4
+
+# =================================================== #
+# Visual Studio / MonoDevelop generated / Visual Code #
+# =================================================== #
+ExportedObj/
+*.svd
+*.userprefs
+*.csproj
+*.pidb
+*.suo
+*.sln
+*.user
+*.unityproj
+*.booproj
+.vscode/
+
+# ============== #
+# FMOD generated #
+# ============== #
+/Assets/FMODStudioCache.asset
+/Assets/FMODStudioCache.asset.meta
+fmod.log
+fmod_editor.log
+
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+
+
